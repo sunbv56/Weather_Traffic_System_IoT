@@ -3,7 +3,7 @@
 
 # IoT Project
 
-This repository hosts an IoT project integrating multiple sensors, an ESP8266 microcontroller, and an Android application for real-time monitoring and data analysis. The project includes a Jupyter notebook for data processing, Arduino code for sensor data collection and ESP8266 communication, and an Android app for user interface.
+This repository contains an IoT project developed collaboratively by our team of three. Together, we integrated multiple sensors, an ESP8266 microcontroller, and an Android application for real-time monitoring and data analysis. Our project includes a Jupyter notebook for data processing, Arduino code for sensor data collection and ESP8266 communication, and an Android app for a user-friendly interface.
 
 ## Project Structure
 
