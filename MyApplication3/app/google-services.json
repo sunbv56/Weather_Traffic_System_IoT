@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "726665346552",
+    "firebase_url": "https://weather-forecast-13899-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "weather-forecast-13899",
+    "storage_bucket": "weather-forecast-13899.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726665346552:android:64d337e354dbd536b1aa0d",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgO2S3qMwyjZbAWayDcJWf6GRk90Ia1oA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
